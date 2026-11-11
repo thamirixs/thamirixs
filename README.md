@@ -1,6 +1,6 @@
 ## Sobre mim 👋
 
-Oi! Sou a Thamiris Rodrigues, do Rio de Janeiro. Minha trajetória começou na Odontologia, na UERJ, e hoje estou migrando de carreira, começando minha trajetória em Ciência da Computação. Gosto de aprender na prática e de entender como as coisas funcionam, desde a interface de um site até a consulta que organiza os dados por trás dele.
+Oi!! Sou a Thamiris Rodrigues, do Rio de Janeiro. Minha trajetória começou na Odontologia, na UERJ, e hoje estou migrando de carreira, começando minha trajetória em Ciência da Computação. Gosto de aprender na prática e de entender como as coisas funcionam, desde a interface de um site até a consulta que organiza os dados por trás dele.
 
 - 🎓 Estou no 2º período de Ciência da Computação.
 - 💻 Busco minha primeira oportunidade de estágio em TI.
